@@ -20,8 +20,6 @@ export class Tab1Page implements OnInit {
       this.weathers = weatherResult;
       this.temp = weatherResult.main.temp;
       this.city = weatherResult.name;
-
-      console.log(weatherResult);
     });
   }
 }
