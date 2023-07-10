@@ -21,5 +21,5 @@ export class Tab1Page implements OnInit {
       this.temp = weatherResult.main.temp;
       this.city = weatherResult.name;
     });
-  }
+  }   
 }
