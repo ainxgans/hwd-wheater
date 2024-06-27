@@ -1,3 +1,3 @@
 Aplikasi Cuaca menggunakan Ionic dan API dari openweathermap
 
-maulana-weather.netlify.app/
+[Demo Aplikasi (netlify)](maulana-weather.netlify.app/)
